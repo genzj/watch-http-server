@@ -66,7 +66,7 @@
   "dependencies": {
     "chokidar": "^0.12.4",
     "colors": "1.0.3",
-    "sexstatic": "~0.6.x",
+    "sexstatic": "git+https://github.com/genzj/node-sexstatic.git#genzj-patch-etag-bug",
     "opener": "~1.4.0",
     "optimist": "0.6.x",
     "portfinder": "0.2.x",
